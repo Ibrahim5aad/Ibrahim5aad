@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ibrahim Saad, software developer based in Egypt. My specialty is BIM software development and solving AEC related problem through code.  
+I am Ibrahim Saad, software developer based in Egypt. My specialty is BIM software development and solving AEC related problems through code.  
  
 
 ### I speak:
@@ -10,24 +10,24 @@ I am Ibrahim Saad, software developer based in Egypt. My specialty is BIM softwa
 
 ### My area of expertise is:
 
-![](https://img.shields.io/static/v1?label&message=Revit API&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&message=Forge APIs&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Revit-API&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Forge-APIs&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&message=.NET&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&message=Restful APIs&style=for-the-badge&color=black)
 
 ### I code in:
 
-![](https://img.shields.io/static/v1?label&logo=javascript&message=JavaScript&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=javascript&message=JavaScript&style=for-the-badge&color=black&logoColor=lightyellow)
 ![](https://img.shields.io/static/v1?label&logo=c-sharp&message=C-Sharp&style=for-the-badge&color=black&logoColor=white) 
 
 ### I love using:
 
-![](https://img.shields.io/static/v1?label&logo=wpf&message=WPF&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=dotnet&message=WPF&style=for-the-badge&color=black&logoColor=lightblue)
 ![](https://img.shields.io/static/v1?label&logo=electronjs&message=Electron.js&style=for-the-badge&color=black&logoColor=white)
 
-![](https://img.shields.io/static/v1?label&logo=aspnet&message=ASP.NET Core&style=for-the-badge&color=black&logoColor=lightblue)
-![](https://img.shields.io/static/v1?label&logo=ef&message=EF Core&style=for-the-badge&color=black&logoColor=lightblue)
-![](https://img.shields.io/static/v1?label&logo=mssql&message=MS SQL&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=aspnet&message=ASP.NET-Core&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=ef&message=EF&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=mssql&message=MS-SQL&style=for-the-badge&color=black&logoColor=lightblue)
 
 ### Contacts:
 
