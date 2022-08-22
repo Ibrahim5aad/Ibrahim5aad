@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**Ibrahim5aad/Ibrahim5aad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ibrahim Saad, software developer based in Egypt. My specialty is BIM software development and solving AEC related problem through code.  
+ 
 
-Here are some ideas to get you started:
+### I speak:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://img.shields.io/static/v1?label&message=English&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Arabic&style=for-the-badge&color=black) 
+
+### My area of expertise is:
+
+![](https://img.shields.io/static/v1?label&message=Revit API&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Forge APIs&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=.NET&style=for-the-badge&color=black)
+![](https://img.shields.io/static/v1?label&message=Restful APIs&style=for-the-badge&color=black)
+
+### I code in:
+
+![](https://img.shields.io/static/v1?label&logo=javascript&message=JavaScript&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=c-sharp&message=C-Sharp&style=for-the-badge&color=black&logoColor=white) 
+
+### I love using:
+
+![](https://img.shields.io/static/v1?label&logo=wpf&message=WPF&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=electronjs&message=Electron.js&style=for-the-badge&color=black&logoColor=white)
+
+![](https://img.shields.io/static/v1?label&logo=aspnet&message=ASP.NET Core&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=ef&message=EF Core&style=for-the-badge&color=black&logoColor=lightblue)
+![](https://img.shields.io/static/v1?label&logo=mssql&message=MS SQL&style=for-the-badge&color=black&logoColor=lightblue)
+
+### Contacts:
+
+[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/ibrahim5aad/)
+[![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/theibrahimsaad/)
+
+
+ 
