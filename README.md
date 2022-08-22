@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ibrahim Saad, software developer based in Egypt. My specialty is BIM software development and solving AEC related problems through code.  
+I am Ibrahim Saad, a software developer based in Egypt. I specialize in BIM software development and solving AEC related problems through code.  
  
 
 ### I speak:
