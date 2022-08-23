@@ -26,10 +26,9 @@ I am Ibrahim Saad, a software developer based in Egypt. I specialize in BIM soft
 ![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-![](https://img.shields.io/static/v1?label&logo=dotnet&message=ASP.NET-Core&style=for-the-badge&color=black&logoColor=white)
-![](https://img.shields.io/static/v1?label&logo=ef&message=EF&style=for-the-badge&color=black&logoColor=lightblue)
+![ASP.NET-Core](https://img.shields.io/badge/ASP.NET-Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![EF](https://img.shields.io/badge/EF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-
 
 
 ### Contact me:
