@@ -32,8 +32,8 @@ I'm currently working on [electronjs-revit-addin](https://github.com/Ibrahim5aad
 
 ### Contact me:
 
-[![](https://img.shields.io/static/v1?label&logo=linkedin&message=linkedin&style=for-the-badge&color=black)](https://www.linkedin.com/in/ibrahim5aad/)
-[![](https://img.shields.io/static/v1?label&logo=instagram&message=Instagram&style=for-the-badge&color=black)](https://www.instagram.com/theibrahimsaad/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim5aad/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/theibrahimsaad/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ibrahimsaad419@gmail.com)
 
  
