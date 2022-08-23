@@ -13,7 +13,7 @@ I am Ibrahim Saad, a software developer based in Egypt. I specialize in BIM soft
 
 ![](https://img.shields.io/static/v1?label&message=Revit-API&style=for-the-badge&color=black)
 ![](https://img.shields.io/static/v1?label&message=Forge-APIs&style=for-the-badge&color=black)
-![](https://img.shields.io/static/v1?label&message=.NET&style=for-the-badge&color=black)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![](https://img.shields.io/static/v1?label&message=Restful-APIs&style=for-the-badge&color=black)
 
 ### Programming languages:
@@ -21,14 +21,16 @@ I am Ibrahim Saad, a software developer based in Egypt. I specialize in BIM soft
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-### I love using:
+### I work with:
 
-![](https://img.shields.io/static/v1?label&logo=dotnet&message=WPF&style=for-the-badge&color=black&logoColor=white)
-![](https://img.shields.io/static/v1?label&logo=electron&message=Electron.js&style=for-the-badge&color=black&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
 ![](https://img.shields.io/static/v1?label&logo=dotnet&message=ASP.NET-Core&style=for-the-badge&color=black&logoColor=white)
 ![](https://img.shields.io/static/v1?label&logo=ef&message=EF&style=for-the-badge&color=black&logoColor=lightblue)
-![](https://img.shields.io/static/v1?label&logo=mssql&message=MS-SQL&style=for-the-badge&color=black&logoColor=lightblue)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+
 
 ### Contact me:
 
