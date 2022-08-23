@@ -2,7 +2,7 @@
 
 I am Ibrahim Saad, a software developer based in Egypt. I specialize in BIM software development and solving AEC related problems through code.  
 
-I'm currently working on [electronjs-revit-addin](https://github.com/Ibrahim5aad/electronjs-revit-addin) 
+👨‍💻 I'm currently working on [electronjs-revit-addin](https://github.com/Ibrahim5aad/electronjs-revit-addin) 
 
 ### I speak:
 
