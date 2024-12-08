@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ibrahim Saad, an AEC Software Engineer from Egypt, currently lives in Prague, Czechia. 👨‍💻
+I am Ibrahim Saad, an AEC Software Engineer from Egypt, currently living in Prague, Czechia. 👨‍💻
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim5aad/)
