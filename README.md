@@ -2,7 +2,7 @@
 
 I am Ibrahim Saad, an AEC Software Engineer from Egypt, based in Prague, Czechia. 👨‍💻
 
-#### What I'm working on
+#### Currently building:
 
 - 🎮 [BIM Quests](https://bim-quests.com/) — an exploration game (gamified viewer) built for IFC models
 - 🔧 [XbimGeometry](https://github.com/Ibrahim5aad/XbimGeometry) — porting the xBIM Geometry Engine from C++/CLI to a cross-platform C/P-Invoke architecture
